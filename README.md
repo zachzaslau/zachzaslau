@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently a second-year Computer Science student at the University of Florida (Go Gators 🐊)!<br>
+I am currently a second-year Computer Science student at the University of Florida!
+Go Gators 🐊<br>
 
 
 ## 🌐 Socials:
